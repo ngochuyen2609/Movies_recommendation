@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+torch-geometric
+torch-scatter torch-sparse torch-cluster torch-spline-conv
+torch torchvision torchaudio
