@@ -1,17 +1,27 @@
 Hệ thống Gợi ý Phim (Movie Recommendation System)
+
 Một hệ thống gợi ý phim cá nhân hóa, đề xuất các bộ phim phù hợp với người dùng dựa trên lịch sử tương tác và sở thích của họ.
 
 Tính năng chính
+
 Gợi ý dựa trên người dùng hoặc sản phẩm (Collaborative Filtering)
+
 Hỗ trợ Graph Neural Networks (LightGCN) để học vector đặc trưng người dùng và phim
+
 Huấn luyện mô hình và đánh giá bằng các chỉ số như MSE, Recall
+
 Hỗ trợ dữ liệu MovieLens 100K
+
 Gợi ý Top-K phim phù hợp cho từng người dùng
 
 Công nghệ sử dụng
+
 Ngôn ngữ: Python
+
 Thư viện: NumPy, Pandas, PyTorch hoặc TensorFlow
+
 Mô hình: Matrix Factorization / GNN (LightGCN)
+
 Dữ liệu: MovieLens 100K
 
 Link drive: bao gồm báo cáo, slide, data, ảnh 
@@ -40,3 +50,4 @@ Hệ thống hỗ trợ đánh giá chất lượng gợi ý bằng các chỉ s
 
 
 Có thể mở rộng để đánh giá với tập kiểm tra và hiển thị kết quả trực quan
+
